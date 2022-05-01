@@ -1,3 +1,4 @@
+```py
 class quiz50:
     def __init__(self,  message:str):
         # attribute of the class which is the message and the list of each alphabet in ascii
@@ -44,6 +45,8 @@ print(test1.ascii_art())
 print(test2.ascii_art())
 print(test3.ascii_art())
 print(test4.ascii_art())
+
+```
 
 
 
