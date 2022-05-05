@@ -51,3 +51,6 @@ print(test4.ascii_art())
 
 
 # Test
+
+<img width="305" alt="QUiz50" src="https://user-images.githubusercontent.com/82266864/166854677-7cbff4e4-a0cc-47a7-8553-7f8b8ba5dcd6.png">
+
